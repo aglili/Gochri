@@ -1,4 +1,4 @@
-# go_chri
+# gochri
 
 ## Project setup
 ```
